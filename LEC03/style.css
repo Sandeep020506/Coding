@@ -1,0 +1,52 @@
+body{
+    font-family: "Epilogue", sans-serif;
+    background-color: #e6ccff;
+}
+
+span{
+
+    color: gold;
+    font-size: 60px;
+}
+
+h2{
+    color: rgb(202, 202, 87);
+    font-size: 50;
+}
+ 
+/* the given below are the way for the selectors */
+
+#unique{
+    color: purple;
+    font-size: 80;
+}
+
+.highlight{
+    color: aquamarine;
+    font-size: 66px;
+}
+
+.colordemo{
+    color:blue;
+    font-size: 99px;
+}
+
+.sizedemo{
+    font-size: 20px;
+}
+
+.familydemo{
+    font-family: "Epilogue", sans-serif;
+}
+
+.weightdemo{
+    font-weight: bold;
+}
+
+.aligndemo{
+    text-align: center;
+}
+
+.decorationdemo{
+    text-decoration: underline;
+}
